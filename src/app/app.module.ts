@@ -13,13 +13,13 @@ import { AngularFirestoreModule } from 'angularfire2/firestore';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 
 import { AppComponent } from './app.component';
-import {MaterialModule} from './material.module';
+import { MaterialModule } from './material.module';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { HeaderComponent } from './navigation/header/header.component';
 import { SidenavListComponent } from './navigation/sidenav-list/sidenav-list.component';
 import { AuthService } from './auth/auth.service';
 import { UIService } from './shared/ui.service';
-import { TrainingModule } from './training/training.module';
+// import { TrainingModule } from './training/training.module';
 
 @NgModule({
   declarations: [
@@ -27,7 +27,7 @@ import { TrainingModule } from './training/training.module';
     WelcomeComponent,
     HeaderComponent,
     SidenavListComponent,
-    StopTrainingComponent,
+    // StopTrainingComponent,
 
   ],
   imports: [
@@ -40,9 +40,8 @@ import { TrainingModule } from './training/training.module';
     ReactiveFormsModule,
     AngularFireModule.initializeApp(environment.firebaseConfig),
     AngularFirestoreModule,
-
     AuthModule,
-    TrainingModule
+    // TrainingModule
 
   ],
   providers: [AuthService, TrainingService, UIService],
