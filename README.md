@@ -4,10 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 
-<img width="220" alt="01" src="https://user-images.githubusercontent.com/13722768/69873244-91478800-1296-11ea-8fc9-f38325f16790.png">
-<img width="220" alt="02" src="https://user-images.githubusercontent.com/13722768/69873247-91e01e80-1296-11ea-9dd6-ce98a403e31b.png">
-<img width="220" alt="03" src="https://user-images.githubusercontent.com/13722768/69873248-91e01e80-1296-11ea-84bf-5d73f9578334.png">
-<img width="220" alt="04" src="https://user-images.githubusercontent.com/13722768/69873251-91e01e80-1296-11ea-93ad-1bacf0fcf149.png">
+<img alt="01" src="https://user-images.githubusercontent.com/13722768/69873244-91478800-1296-11ea-8fc9-f38325f16790.png">
+<img alt="02" src="https://user-images.githubusercontent.com/13722768/69873247-91e01e80-1296-11ea-9dd6-ce98a403e31b.png">
+<img alt="03" src="https://user-images.githubusercontent.com/13722768/69873248-91e01e80-1296-11ea-84bf-5d73f9578334.png">
+<img alt="04" src="https://user-images.githubusercontent.com/13722768/69873251-91e01e80-1296-11ea-93ad-1bacf0fcf149.png">
 
 ## Development server
 
